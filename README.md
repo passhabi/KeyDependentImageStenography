@@ -1,4 +1,4 @@
-# Key Dependent Image Stenography Using Edge Detection<br>
-Implementing the article with Python<br>
-Download the Article here.<br>
-Download the translated article in Persian here.<br>
+# Implementing the "Key Dependent Image Stenography Using Edge Detection" with Python
+
+Download the Article <a href="#">here</a>.<br>
+Download the translated article in Persian <a href="#">here</a>.<br>
