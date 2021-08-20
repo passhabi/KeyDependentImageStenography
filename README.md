@@ -5,4 +5,4 @@ Download the Article <a href="https://github.com/passhabi/KeyDependentImageSteno
 
 
 
-استفاده از ترجمه و منابع فوق به جز موارد آموزشی ممنوع است.
+استفاده از منابع فوق به جز موارد آموزشی ممنوع است.
