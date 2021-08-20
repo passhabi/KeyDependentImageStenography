@@ -5,4 +5,4 @@ Download the translated article in Persian <a href="#">here</a>.<br>
 
 
 
-استفاده از منابع فوق به جز آموزش ممنوع است.
+استفاده از ترجمه و منابع فوق به جز موارد آموزشی ممنوع است.
